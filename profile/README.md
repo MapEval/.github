@@ -1,4 +1,4 @@
-![Alt text](overview.png)
+![Alt text](overview.svg)
 
 <!--
 
