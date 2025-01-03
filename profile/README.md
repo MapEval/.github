@@ -102,13 +102,10 @@ We benchmarked 28 foundation models on MapEval dataset. The models are evaluated
 ## 📝 Citation
 If you use dataset for benchmarking, please cite our paper:
 ```
-@inproceedings{
-    anonymous2024mapeval,
-    title={MapEval: A Map-Based Evaluation of Geo-Spatial Reasoning in Foundation Models},
-    author={Anonymous},
-    booktitle={Submitted to The Thirteenth International Conference on Learning Representations},
-    year={2024},
-    url={https://openreview.net/forum?id=nnAPWDt4hn},
-    note={under review}
+@article{dihan2024mapeval,
+  title={MapEval: A Map-Based Evaluation of Geo-Spatial Reasoning in Foundation Models},
+  author={Dihan, Mahir Labib and Hassan, Md Tanvir and Parvez, Md Tanvir and Hasan, Md Hasebul and Alam, Md Almash and Cheema, Muhammad Aamir and Ali, Mohammed Eunus and Parvez, Md Rizwan},
+  journal={arXiv preprint arXiv:2501.00316},
+  year={2024}
 }
 ```
