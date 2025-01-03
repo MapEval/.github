@@ -100,7 +100,7 @@ We benchmarked 28 foundation models on MapEval dataset. The models are evaluated
 | Human                     | 82.23   | 81.67      | 82.42  | 85.18   | 78.41    | 65.00        |
 
 ## 📝 Citation
-If you use dataset for benchmarking, please cite our paper:
+If you use this dataset for benchmarking, please cite our paper:
 ```
 @article{dihan2024mapeval,
   title={MapEval: A Map-Based Evaluation of Geo-Spatial Reasoning in Foundation Models},
