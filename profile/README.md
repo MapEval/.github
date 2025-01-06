@@ -24,6 +24,7 @@
 
 ## 📢 Updates
 
+- - 2024-12-31: We have released our [paper](https://arxiv.org/abs/2501.00316) and [dataset](https://huggingface.co/MapEval). Check it out!
 - 2024-11-19: MapEval dataset is increased to 700 questions.
 - 2024-10-02: Paper submitted to ICLR 2025 Conference. [Link](https://openreview.net/forum?id=nnAPWDt4hn)
 - 2024-09-30: MapEval dataset is created with 573 questions.
