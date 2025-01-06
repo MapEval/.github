@@ -19,6 +19,9 @@
     <a href="https://github.com/orgs/mapeval/repositories">💻 Code</a>
 </p>
 
+
+![Alt text](overview.svg)
+
 ## 📢 Updates
 
 - 2024-11-19: MapEval dataset is increased to 700 questions.
@@ -31,7 +34,6 @@ Recent advancements in foundation models have enhanced AI systems' capabilities 
 
 ## 🌎 MapEval Overview
 
-![Alt text](overview.svg)
 
 We introduce MapEval, a novel benchmark designed to evaluate the geo-spatial reasoning capabilities of foundation models and AI agents in complex map-based scenarios. MapEval addresses a critical gap in existing benchmarks by evaluating models' ability to process heterogeneous geo-spatial contexts, perform compositional reasoning, and interact with real-world map tools. It features three task types— MapEval-API, MapEval-Visual, and MapEval-Textual, that require models to collect world information via map tools, a deep visual understanding, and reason over diverse geo-spatial data (e.g., named entities, coordinates, operational hours, distances, routes, user reviews/ratings, map images), all of which remain challenging for state-of-the-art foundation models. Comprising 700 unique multiple-choice questions across 180 cities and 54 countries, MapEval reflects real-world user interactions with map services while pushing state-of-the-art models to understand spatial relationships, map infographics, travel planning, POI search, and navigation. MapEval ensures geographic diversity, realistic query patterns, and evaluation across multiple modalities. By integrating long contexts, visual complexity, API interactions, and questions requiring commonsense reasoning or recognition of insufficient information (i.e., unanswerability), it offers a rigorous framework for advancing geo-spatial AI capabilities.
 
