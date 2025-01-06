@@ -1,4 +1,16 @@
-# MapEval: A Map-Based Evaluation of Geo-Spatial Reasoning in Foundation Models
+<div align="center">
+
+<h1>MapEval: A Map-Based Evaluation of Geo-Spatial Reasoning in Foundation Models</h1>
+
+<!-- [**Xiangcheng Hu**](https://github.com/JokerJohn)<sup>1</sup> · [**Jin Wu**](https://zarathustr.github.io/)<sup>1</sup> · [**Mingkai  Jia**](https://github.com/MKJia)<sup>1</sup>· [**Hongyu  Yan**](https://scholar.google.com/citations?user=TeKnXhkAAAAJ&hl=zh-CN)<sup>1</sup>· [**Yi  Jiang**](https://yijiang1992.github.io/)<sup>2</sup>· [**Binqian  Jiang**](https://github.com/lewisjiang/)<sup>1</sup>
+<br>
+[**Wei Zhang**](https://ece.hkust.edu.hk/eeweiz)<sup>1</sup> · [**Wei  He**](https://sites.google.com/view/drweihecv/home/)<sup>3</sup> · [**Ping Tan**](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ping-tan-pingtan#publications)<sup>1*&dagger;</sup>
+
+<sup>1</sup>**HKUST&emsp;&emsp;&emsp;<sup>2</sup>CityU&emsp;&emsp;&emsp;<sup>3</sup>USTB**  
+<br>
+&dagger;project lead&emsp;*corresponding author -->
+
+</div>
 
 <p align="center">
     <a href="https://mapeval.github.io/">🌐 Website</a> •
