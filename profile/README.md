@@ -25,6 +25,7 @@
 
 ## 📢 Updates
 
+- 2025-01-31: Paper submitted to ICML 2025 Conference.
 - 2024-12-31: We have released our [paper](https://arxiv.org/abs/2501.00316) and [dataset](https://huggingface.co/MapEval). Check it out!
 - 2024-11-19: MapEval dataset is increased to 700 questions.
 - 2024-10-02: Paper submitted to ICLR 2025 Conference. [Link](https://openreview.net/forum?id=nnAPWDt4hn)
@@ -115,6 +116,7 @@ We benchmarked 28 foundation models on MapEval dataset. The models are evaluated
 | Human                     | 82.23   | 81.67      | 82.42  | 85.18   | 78.41    | 65.00        |
 
 ## 📝 Citation
+
 If you use this dataset for benchmarking, please cite our paper:
 ```
 @article{dihan2024mapeval,
@@ -124,3 +126,9 @@ If you use this dataset for benchmarking, please cite our paper:
   year={2024}
 }
 ```
+
+<!-- ## Contributors
+
+Thanks to all the contributors! 💖
+
+[![Contributor1](https://avatars.githubusercontent.com/u/66126573?s=50)](https://github.com/tanvirsaad) [![Contributor2](https://avatars.githubusercontent.com/u/62663759?s=50)](https://github.com/mahirlabibdihan) -->
