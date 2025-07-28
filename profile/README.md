@@ -24,6 +24,7 @@
 
 ## 📢 Updates
 
+-   2025-07-18: Poster presented at ICML 2025, Vancouver.
 -   2025-05-01: Accepted to ICML 2025 Conference (Spotlight).
 -   2025-01-31: Paper submitted to ICML 2025 Conference.
 -   2024-12-31: We have released our [paper](https://arxiv.org/abs/2501.00316) and [dataset](https://huggingface.co/MapEval). Check it out!
